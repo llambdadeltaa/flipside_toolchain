@@ -1,0 +1,244 @@
+{
+    "wormhole_chain_id": {
+        "1": "solana",
+        "2": "ethereum",
+        "3": "terra",
+        "4": "bsc",
+        "5": "polygon",
+        "6": "avax",
+        "7": "oasis"
+    },
+
+    "token_contract": [
+        "terra103c6z8jq8s2yszvxj9mpah0jlvky2pek54f2yg",
+        "terra127ww0al7uj9vyg7cv2gtcqenhrjzlnq5vaq6dh",
+        "terra132zppkzw88j35hpwxkrpzymujekky3wcuru65n",
+        "terra133chr09wu8sakfte5v7vd8qzq9vghtkv4tn0ur",
+        "terra14tl83xcwqjy0ken9peu4pjjuu755lrry2uy25r",
+        "terra190tqwgqx7s8qrknz6kckct7v607cu068gfujpk",
+        "terra19phjr9363x44yukx6dl6d4zvn2wqc8gpkk0tm7",
+        "terra19t8cxscre0jss7nejqy29c97fkg7els3v8zujg",
+        "terra1aa7upykmmqqc63l924l5qfap8mrmx5rfdm0v55",
+        "terra1ce06wkrdm4vl6t0hvc0g86rsy27pu8yadg3dva",
+        "terra1cetg5wruw2wsdjp7j46rj44xdel00z006e9yg8",
+        "terra1dfasranqm4uyaz72r960umxy0w8t6zewqlnkuq",
+        "terra1dtqlfecglk47yplfrtwjzyagkgcqqngd5lgjp8",
+        "terra1dx9f62gmeyjerskc3uf5pyuwq3vhwuf6a8wpn4",
+        "terra1dyypm0nag84fegagrau8k3wcyjm262rt0v7ggl",
+        "terra1e6mq63y64zcxz8xyu5van4tgkhemj3r86yvgu4",
+        "terra1fme0uqgjucph3kelyejm6yuj60e4te8647gx6v",
+        "terra1gdapfuda0dxtjc98raemhszntcxty7chyr0wpd",
+        "terra1gtjr689cyaau20k8ezdxy8eup34tntun5xr9l2",
+        "terra1hd9n65snaluvf7en0p4hqzse9eqecejz2k8rl5",
+        "terra1jlh9xlyahg2d2qwat8jl4evqzuua452dafzqs5",
+        "terra1jpkhwg9skkgml95v8y8hhp8n2wlktzqx6w2gzc",
+        "terra1k7tstwhf25wm45x329ny84xe4n2z2nnq9ekuv2",
+        "terra1kkyyh7vganlpkj0gkc2rfmhy858ma4rtwywe3x",
+        "terra1mddcdx0ujx89f38gu7zspk2r2ffdl5enyz2u03",
+        "terra1mzm7nflz93qm7qhftykquv3yklyepwn4x2ujuw",
+        "terra1pepwcav40nvj3kh60qqgrk8k07ydmc00xyat06",
+        "terra1pkfkxzxqawdze8wa6enwh0hfw8yhlkswnqn328",
+        "terra1skjr69exm6v8zellgjpaa2emhwutrk5a6dz7dd",
+        "terra1t9ul45l7m6jw6sxgvnp8e5hj8xzkjsg82g84ap",
+        "terra1tnndhfm0khgm3h766edku6833rz392p8cr82y8",
+        "terra1tuleqeucunvs9rga3dq5h35ew3ml8uv9a4snzx",
+        "terra1v584dmdvtlh7rpa22cslnzwkennm39ud5ngdld",
+        "terra1vlqeghv5mt5udh96kt5zxlh2wkh8q4kewkr0dd",
+        "terra1xu3nyee55dfe5vxqtg9m4rkex8u2t6n2etl08h",
+        "terra1yljlrxvkar0c6ujpvf8g57m5rpcwl7r032zyvu",
+        "terra1zmclyfepfmqvfqflu8r3lv6f75trmg05z7xq95",
+        "terra1ukmck39pkrhljc0my0hw7yu0quarncajcqyfz8"
+    ],
+    "token_contract_meta": {
+        "terra103c6z8jq8s2yszvxj9mpah0jlvky2pek54f2yg": {
+            "asset_address": "cC7nIeEJgKvtfYCybFG2CCjdSD99VvsGjkNBET5qwXk=",
+            "decimals": 8,
+            "symbol": ""
+        },
+        "terra127ww0al7uj9vyg7cv2gtcqenhrjzlnq5vaq6dh": {
+            "asset_address": "AAAAAAAAAAAAAAAAaSWXsAnRPEBJqUfKsiObfWUXh18=",
+            "decimals": 8,
+            "symbol": "UST"
+        },
+        "terra132zppkzw88j35hpwxkrpzymujekky3wcuru65n": {
+            "asset_address": "AAAAAAAAAAAAAAAADrOnBfxUclA3zJ4Ai97eaX9i8zU=",
+            "decimals": 8,
+            "symbol": "ATOM"
+        },
+        "terra133chr09wu8sakfte5v7vd8qzq9vghtkv4tn0ur": {
+            "asset_address": "AAAAAAAAAAAAAAAAfznFgfWVtTxcsZvQs/jabJNeLKA=",
+            "decimals": 8,
+            "symbol": "wstETH"
+        },
+        "terra14tl83xcwqjy0ken9peu4pjjuu755lrry2uy25r": {
+            "asset_address": "AAAAAAAAAAAAAAAAwCqqObIj/o0KDlxPJ+rZCDx1bMI=",
+            "decimals": 8,
+            "symbol": "WETH"
+        },
+        "terra190tqwgqx7s8qrknz6kckct7v607cu068gfujpk": {
+            "asset_address": "BpuIV/6rgYT7aH9jRhjANdrEOdwa6ztVmKDwAAAAAAE=",
+            "decimals": 8,
+            "symbol": ""
+        },
+        "terra19phjr9363x44yukx6dl6d4zvn2wqc8gpkk0tm7": {
+            "asset_address": "AAAAAAAAAAAAAAAAIXDtCICsmnVf0psmiJVr2Vn5M/g=",
+            "decimals": 8,
+            "symbol": "ETH"
+        },
+        "terra19t8cxscre0jss7nejqy29c97fkg7els3v8zujg": {
+            "asset_address": "dhMgBHv5TZEAvdwpTgpAzYRO+COPsDowSDRXFNxTsLs=",
+            "decimals": 6,
+            "symbol": ""
+        },
+        "terra1aa7upykmmqqc63l924l5qfap8mrmx5rfdm0v55": {
+            "asset_address": "AAAAAAAAAAAAAAAAImD6xeVUKnc6pE+8/t98GTvCxZk=",
+            "decimals": 8,
+            "symbol": "WBTC"
+        },
+        "terra1ce06wkrdm4vl6t0hvc0g86rsy27pu8yadg3dva": {
+            "asset_address": "AAAAAAAAAAAAAAAA2sF/lY0u5SOiIGIGmUWXwT2DHsc=",
+            "decimals": 6,
+            "symbol": "USDT"
+        },
+        "terra1cetg5wruw2wsdjp7j46rj44xdel00z006e9yg8": {
+            "asset_address": "AAAAAAAAAAAAAAAAu0zbnL02sBvRy66/LeCNkXO8CVw=",
+            "decimals": 8,
+            "symbol": "WBNB"
+        },
+        "terra1dfasranqm4uyaz72r960umxy0w8t6zewqlnkuq": {
+            "asset_address": "AAAAAAAAAAAAAAAAfRr6e3GPuJPbMKOrwM/GCKrP67A=",
+            "decimals": 8,
+            "symbol": "MATIC"
+        },
+        "terra1dtqlfecglk47yplfrtwjzyagkgcqqngd5lgjp8": {
+            "asset_address": "AAAAAAAAAAAAAAAADVALHY6O8x4hyZ0duaZETTrfEnA=",
+            "decimals": 8,
+            "symbol": "WMATIC"
+        },
+        "terra1dx9f62gmeyjerskc3uf5pyuwq3vhwuf6a8wpn4": {
+            "asset_address": "ele+gBc0q3k5Tibxcbv3cdHjwQqgxjcz2q3O/8ayxmg=",
+            "decimals": 8,
+            "symbol": ""
+        },
+        "terra1dyypm0nag84fegagrau8k3wcyjm262rt0v7ggl": {
+            "asset_address": "AAAAAAAAAAAAAAAACaPsr6gXJo93vhKDF2uUbE/y5gg=",
+            "decimals": 8,
+            "symbol": "MIR"
+        },
+        "terra1e6mq63y64zcxz8xyu5van4tgkhemj3r86yvgu4": {
+            "asset_address": "xvp6877brTo9ZfNqq8l0MbG75MLS9uDkfKYCA0UvXWE=",
+            "decimals": 6,
+            "symbol": ""
+        },
+        "terra1fme0uqgjucph3kelyejm6yuj60e4te8647gx6v": {
+            "asset_address": "AAAAAAAAAAAAAAAAJINLvsfjnvQvSnXq+OW2SG0/Dlc=",
+            "decimals": 8,
+            "symbol": "LUNA"
+        },
+        "terra1gdapfuda0dxtjc98raemhszntcxty7chyr0wpd": {
+            "asset_address": "AAAAAAAAAAAAAAAAVTDsI/TuFSEYK9FYwJ9Mp+/sHvA=",
+            "decimals": 8,
+            "symbol": "ORION"
+        },
+        "terra1gtjr689cyaau20k8ezdxy8eup34tntun5xr9l2": {
+            "asset_address": "AAAAAAAAAAAAAAAAuirkJNlgwmJH3Wwy7ccLKVx0TEM=",
+            "decimals": 8,
+            "symbol": "DOGE"
+        },
+        "terra1hd9n65snaluvf7en0p4hqzse9eqecejz2k8rl5": {
+            "asset_address": "zgEOYK/tsicXvWMZL1QUWj+WWjO7gtLHAp6yzh4ggmQ=",
+            "decimals": 6,
+            "symbol": ""
+        },
+        "terra1jlh9xlyahg2d2qwat8jl4evqzuua452dafzqs5": {
+            "asset_address": "AAAAAAAAAAAAAAAAfOsj/WvArdWeYqwlV4Jwz/G59hk=",
+            "decimals": 8,
+            "symbol": "WETH"
+        },
+        "terra1jpkhwg9skkgml95v8y8hhp8n2wlktzqx6w2gzc": {
+            "asset_address": "wmHYbPXPh3Eouh9WUuXz3aWZJwwVVqFbwKmqz4Bj5WM=",
+            "decimals": 8,
+            "symbol": "RIN"
+        },
+        "terra1k7tstwhf25wm45x329ny84xe4n2z2nnq9ekuv2": {
+            "asset_address": "gmjpqaFETCulx3pRk2hWsHLkP+/P9eSwHpliPI67d0k=",
+            "decimals": 6,
+            "symbol": ""
+        },
+        "terra1kkyyh7vganlpkj0gkc2rfmhy858ma4rtwywe3x": {
+            "asset_address": "AAAAAAAAAAAAAAAAJ5G8ofLeRmHtiKMMmaepRJqoQXQ=",
+            "decimals": 6,
+            "symbol": "USDC"
+        },
+        "terra1mddcdx0ujx89f38gu7zspk2r2ffdl5enyz2u03": {
+            "asset_address": "AAAAAAAAAAAAAAAAcn8GSnjcc00z7sGNU3Cu8y/9RuQ=",
+            "decimals": 8,
+            "symbol": "ORION"
+        },
+        "terra1mzm7nflz93qm7qhftykquv3yklyepwn4x2ujuw": {
+            "asset_address": "AAAAAAAAAAAAAAAAJQYyN45XPGvhrC+X/N8AUV0KqRs=",
+            "decimals": 8,
+            "symbol": "BETH"
+        },
+        "terra1pepwcav40nvj3kh60qqgrk8k07ydmc00xyat06": {
+            "asset_address": "AAAAAAAAAAAAAAAAoLhpkcYhizbB0Z1KLp6wzjYG60g=",
+            "decimals": 6,
+            "symbol": "USDC"
+        },
+        "terra1pkfkxzxqawdze8wa6enwh0hfw8yhlkswnqn328": {
+            "asset_address": "AAAAAAAAAAAAAAAAqN4+PJNOKhuwiwEBBMyrvU1ik6s=",
+            "decimals": 8,
+            "symbol": "aUST"
+        },
+        "terra1skjr69exm6v8zellgjpaa2emhwutrk5a6dz7dd": {
+            "asset_address": "AAAAAAAAAAAAAAAA6efOo97cpZhHgLr8WZvWmt0IfVY=",
+            "decimals": 8,
+            "symbol": "BUSD"
+        },
+        "terra1t9ul45l7m6jw6sxgvnp8e5hj8xzkjsg82g84ap": {
+            "asset_address": "YnHLcRlHa53OANgVyP8xX8i/fShIYz00lCrf1TXy3v4=",
+            "decimals": 8,
+            "symbol": ""
+        },
+        "terra1tnndhfm0khgm3h766edku6833rz392p8cr82y8": {
+            "asset_address": "CzM4oKssyEHVsBS8ajz3VikYdLMZyVF9m7+p5OlmHvk=",
+            "decimals": 5,
+            "symbol": ""
+        },
+        "terra1tuleqeucunvs9rga3dq5h35ew3ml8uv9a4snzx": {
+            "asset_address": "AAAAAAAAAAAAAAAAW23PVX4qviMjxIRF6MyUiRDYwsk=",
+            "decimals": 8,
+            "symbol": "MIR"
+        },
+        "terra1v584dmdvtlh7rpa22cslnzwkennm39ud5ngdld": {
+            "asset_address": "AAAAAAAAAAAAAAAA/Xs6d4SPHC1n4F5U140XSgyFAzU=",
+            "decimals": 8,
+            "symbol": "ONT"
+        },
+        "terra1vlqeghv5mt5udh96kt5zxlh2wkh8q4kewkr0dd": {
+            "asset_address": "AAAAAAAAAAAAAAAAVdOYMm+ZBZ/3dUhSRpmQJ7MZeVU=",
+            "decimals": 8,
+            "symbol": "USDT"
+        },
+        "terra1xu3nyee55dfe5vxqtg9m4rkex8u2t6n2etl08h": {
+            "asset_address": "AAAAAAAAAAAAAAAAwhMtBdMckUqHxmEcEHSK6wS1jo8=",
+            "decimals": 6,
+            "symbol": "USDT"
+        },
+        "terra1yljlrxvkar0c6ujpvf8g57m5rpcwl7r032zyvu": {
+            "asset_address": "AAAAAAAAAAAAAAAAisdqUcyVDZgi1ouD/hrZezLNWA0=",
+            "decimals": 8,
+            "symbol": "USDC"
+        },
+        "terra1zmclyfepfmqvfqflu8r3lv6f75trmg05z7xq95": {
+            "asset_address": "AAAAAAAAAAAAAAAAaxdUdOiQlMRNqYuVTu3qxJUnHQ8=",
+            "decimals": 8,
+            "symbol": "DAI"
+        },
+        "terra1ukmck39pkrhljc0my0hw7yu0quarncajcqyfz8": {
+            "asset_address": "AAAAAAAAAAAAAAAAljkDuxnrVRC5A/Dg2imq8wW8/No=",
+            "decimals": 8,
+            "symbol": "Cake-LP"
+        }
+    }
+}
